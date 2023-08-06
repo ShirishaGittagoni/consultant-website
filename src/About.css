@@ -1,0 +1,9 @@
+.paragraphs-container {
+    display: flex;
+  }
+  
+  .paragraphs-container p {
+    flex: 1;
+    margin-right: 10px;
+  }
+  
